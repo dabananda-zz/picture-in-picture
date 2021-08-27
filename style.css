@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(37, 37, 37);
+}
+
+#button {
+    padding: 0.8rem 1.7rem;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
